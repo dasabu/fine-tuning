@@ -1,5 +1,16 @@
+# openai
 openai
 python-dotenv
 pandas
 tiktoken # token counting
 ipykernel
+
+# lora
+torch
+transformers
+datasets # huggingface
+peft
+evaluate
+scikit-learn # for evaluate
+fastapi
+uvicorn
